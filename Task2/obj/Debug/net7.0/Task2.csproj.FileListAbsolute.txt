@@ -1,0 +1,15 @@
+D:\Учеба\Homework8\Task2\bin\Debug\net7.0\Task2.exe
+D:\Учеба\Homework8\Task2\bin\Debug\net7.0\Task2.deps.json
+D:\Учеба\Homework8\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+D:\Учеба\Homework8\Task2\bin\Debug\net7.0\Task2.dll
+D:\Учеба\Homework8\Task2\bin\Debug\net7.0\Task2.pdb
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.csproj.AssemblyReference.cache
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.dll
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\refint\Task2.dll
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.pdb
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+D:\Учеба\Homework8\Task2\obj\Debug\net7.0\ref\Task2.dll
